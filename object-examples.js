@@ -9,3 +9,9 @@ var animal = {
   age: 5
   type: ["Bengal", "White", "Asian"]
 }
+
+var customer = {
+  name: "Carly"
+  age: 27
+  isLoyaltyMember: true
+}
